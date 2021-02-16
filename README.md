@@ -1,2 +1,0 @@
-# jenkinsphp
-Sample file 
